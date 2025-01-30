@@ -1,4 +1,5 @@
 # DeepSeek-R1-Distill-Qwen-1.5B interaction locally on CPU
+https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
 This repository contains a simple code to download and save the DeepSeek-R1-Distill-Qwen-1.5B language model (LLM) locally on your system. The model can be loaded and run on your CPU, so there is no need for a GPU. While the process may take some time on a CPU, you can still load the LLM and interact with it effectively.
 
 ## Requirements
